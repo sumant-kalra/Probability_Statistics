@@ -1,0 +1,49 @@
+References: 
+1. Feynman's Lectures of Physics: Lecture 6
+2. https://www.linkedin.com/pulse/monty-hall-problem-perplexing-science-probability-sumant-kalra-i5zgc/?trackingId=iuYI9bUlTwaCJeQbG%2FpEEg%3D%3D
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+1. Chance: What? Why? ProbabilityAsFramework? DefineProbability? CalculatingProbability?
+2. Probability distribution; Fluctuations  
+------------------------------------------------------------------------------------------------------------------------------------
+1. Chance: What? Why?
+------------------------------------------------------------------------------------------------------------------------------------
+- What? "chance" part of daily vocabulary of different professional; Guess 
+- Why guess? 
+    - (a) Decision making in scenarios with limited information
+    - (b) Want to understand more about the situations with the limited available knowledge. e.g, Developing a physical theory 
+- ProbabilityAsFramework? 
+    - Framework to make better guesses
+    - Useful in systems where each outcome of an experiment is highly variable but have a consistent average behaviour when repeated
+    - Example: Coin toss: Each outcome cannot be predicted but when repeated N times, expectation = N/2 heads & tails
+- DefineProbability?
+    - Probability of a specific outcome from experiment: P(A): The expected fraction of the total repetitions of the experiment that produces the desired outcome.
+    - P(A) = n(A)/N; // N = total number of repetitions, n(A) = expected count of repetitions that lead to the outcome A  
+    - Key points: 
+        - Probability is about future events
+        - Probability is not a guarantee 
+        - Only possible outcomes 
+        - Repetition in space or time 
+        - Probability changes with new information
+- CalculatingProbability: Probability of a particular event from an experiment where total possible events are 'm' with each as equally likely. 
+    1. Total repetitions of experiment = N 
+    2. Since each of the 'm' outcomes are equally likely, hence the expected frequency of occurrence of each outcome is equal i.e. n 
+        n1 = n2 = n3 = n4 = .... = nm = n 
+        n1 + n2 + n3 + n4 + .... + nm = N 
+        m*n = N 
+        n = N/m
+    3. From definition of probability, 
+        P(A) = n/N 
+        P(A) = 1/m 
+    4. The same reasoning can be extended for the situations where the outcomes are not equally likely. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+2. Probability distribution; Fluctuations  
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+

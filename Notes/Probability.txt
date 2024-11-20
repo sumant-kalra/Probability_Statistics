@@ -39,8 +39,17 @@ References:
     4. The same reasoning can be extended for the situations where the outcomes are not equally likely. 
 
 ------------------------------------------------------------------------------------------------------------------------------------
-2. Probability distribution; Fluctuations  
+2. Probability distribution; Fluctuation; FluctuationVsBias 
 ------------------------------------------------------------------------------------------------------------------------------------
+- 'Experiment' defined: 'Repeated' & the possible outcomes of the experiment
+- Probability distribution: Probability of occurrence of each possible outcome when the experiment is repeated N times; 
+    Example: 30 coins tossed at once. Possible outcomes: nHeads=1, nHeads=2, nHeads=3,.... nHeads=30
+- Expectation: The actual outcomes of the repeated experiment match the probability distribution
+- Fluctuation: When the actual outcomes distribution from the repetitions does not match the probability distribution  
+- FluctuationVsBias?
+
+
+
 
 
 

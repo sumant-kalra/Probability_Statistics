@@ -1,0 +1,42 @@
+Refer to 'PermutationsCombinations.pdf' for all the details.
+--------------------------------------------------------------------------------------------------------------------------------
+CLEARING THE LONG STANDING DOUBTS
+--------------------------------------------------------------------------------------------------------------------------------
+1. Use visual approaches - use sets while multiplying for the total possibilities. 
+2. Arrangements arise when two sets being multiplied have common elements & if they don't have then it forms combinations.
+3. No repetition i.e, one-to-one mapping; 
+    - Smaller number on top for easy calculations; Exhaustive approach; Identify the path: A->B->C.
+    - If larger on the top, multiple cases for the excluding items have to be considered; Same result with both the appoaches.   
+4. Repetition i.e., one-to-multiple mapping; 
+    - Exhaustive appoach to identify what's at the top; Identify the path: A->B->C
+5. Interesting problem: 
+    - Number of ways to get 3 Heads out of 10 coin tosses; Problem's equivalence to Permutations.
+    :: There are 10 Heads numbered 1-10, the number of ways to select 3 Heads out of 10 is 10C3.
+    :: This includes different combinations of 3 numbers from 1-10; The selected numbers are heads while the remaining are tails.
+    :: When placed in ascending order, it forms all the permutations (of alike objects) of 3Heads & 7Tails = 10!/(3!.7!) = 10C3.  
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------------------------------------------------------
+1. Introduction 
+2. Fundamental Principle of Counting 
+3. Factorial Notation 
+4. Permutation 
+4.1. Permutation with Repetition
+4.2. Permutation of Alike Objects 
+4.3. Permutation under Restriction
+4.4. Non-Consecutive Selection 
+5. Combination 
+5.1. Combinations under Restriction  
+5.2. Combinations of Alike Objects 
+5.3. Division into Groups 
+6. Circular Permutation
+7. Linear Equations with Unit Coefficients 
+8. Divibility of Numbers 
+9. Sum of Numbers 
+10. Factors of Natural Numbers 
+11. Exponent of a Prime P in N!
+12. Inclusion-Exclusion Principle
+13. Derangements Theorem 
+14. Multinomial Theorem 

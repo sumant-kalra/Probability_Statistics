@@ -9,12 +9,13 @@ CLEARING THE LONG STANDING DOUBTS
     - If larger on the top, multiple cases for the excluding items have to be considered; Same result with both the appoaches.   
 4. Repetition i.e., one-to-multiple mapping; 
     - Exhaustive appoach to identify what's at the top; Identify the path: A->B->C
-5. Interesting problem: 
-    - Number of ways to get 3 Heads out of 10 coin tosses; Problem's equivalence to Permutations.
-    :: There are 10 Heads numbered 1-10, the number of ways to select 3 Heads out of 10 is 10C3.
-    :: This includes different combinations of 3 numbers from 1-10; The selected numbers are heads while the remaining are tails.
-    :: When placed in ascending order, it forms all the permutations (of alike objects) of 3Heads & 7Tails = 10!/(3!.7!) = 10C3.  
-
+5. Interesting problem: Number of ways to get 3 Heads out of 10 coin tosses; 
+    * Total number of possibilities = 2^10; 10 tosses, each toss can have H or T.
+    - Number of possibilities with 3H & the rest as T = arrangements of 3H and 7T = 10!/(3!.7!) 
+    - Using combinations formula: equivalence to Permutations.
+        :: 10 Positions numbered 1-10, the number of ways to select 3 positions out of the 10 for H = 10C3.
+6. Note that selection of n items from m makes sense when n<m, because when n=m, nSelections = 1.
+   For n=m, there can be only arrangements, nArrangements = n!
 
 --------------------------------------------------------------------------------------------------------------------------------
 TABLE OF CONTENTS

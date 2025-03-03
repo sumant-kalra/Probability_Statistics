@@ -2,7 +2,7 @@ Refer to 'PermutationsCombinations.pdf' for all the details.
 --------------------------------------------------------------------------------------------------------------------------------
 CLEARING THE LONG STANDING DOUBTS
 --------------------------------------------------------------------------------------------------------------------------------
-1. Use visual approaches - use sets while multiplying for the total possibilities. 
+1. Use visual approaches - use sets while multiplying for the total possibilities. Must use whenever multiplying.
 2. Arrangements arise when two sets being multiplied have common elements & if they don't have then it forms combinations.
 3. No repetition i.e, one-to-one mapping; 
     - Smaller number on top for easy calculations; Exhaustive approach; Identify the path: A->B->C.
@@ -16,6 +16,7 @@ CLEARING THE LONG STANDING DOUBTS
         :: 10 Positions numbered 1-10, the number of ways to select 3 positions out of the 10 for H = 10C3.
 6. Note that selection of n items from m makes sense when n<m, because when n=m, nSelections = 1.
    For n=m, there can be only arrangements, nArrangements = n!
+7. Problem of arrangements = [Selection + PermutationsOfTheSelectedItems]
 
 --------------------------------------------------------------------------------------------------------------------------------
 TABLE OF CONTENTS

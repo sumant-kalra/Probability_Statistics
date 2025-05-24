@@ -1,6 +1,7 @@
 References: 
 1. Feynman's Lectures of Physics: Lecture 6
-2. https://www.linkedin.com/pulse/monty-hall-problem-perplexing-science-probability-sumant-kalra-i5zgc/?trackingId=iuYI9bUlTwaCJeQbG%2FpEEg%3D%3D
+2. Statistics 110: https://stat110.hsites.harvard.edu/ 
+3. https://www.linkedin.com/pulse/monty-hall-problem-perplexing-science-probability-sumant-kalra-i5zgc/?trackingId=iuYI9bUlTwaCJeQbG%2FpEEg%3D%3D
 
 ------------------------------------------------------------------------------------------------------------------------------------
 1. Experiment & DistributionOfOutcomes

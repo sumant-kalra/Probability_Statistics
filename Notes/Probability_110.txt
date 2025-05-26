@@ -2,7 +2,7 @@ Statistics 110: https://stat110.hsites.harvard.edu/
 
 1. Experiment; Sample space; Event; Naive definition of Probability (2); Counting; Sampling; 
     Distribution; CountingMultiplicationRule-Set&Tree; nCr - BinomialCoefficient - PascalTriangle; nPr; Derive nPr, nCr; SamplingTable-2x2(ReplacementxOrder)
-
+    - Think of concrete examples
 
 Examples:
 - Probability of full house in poker, 5 card hand?

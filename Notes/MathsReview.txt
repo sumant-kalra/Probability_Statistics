@@ -1,0 +1,12 @@
+* Sets; MembersOfSet; Finite/InfiniteSet; CardinalityOfSet; SetNotation - {,,} or {Rule}; 
+    EmptySet-TheSmallestSet-Notation {} or Q; {Q}: SetOfEmptySet
+    Subsets; StrategyForASubset; EmptySetIsASubsetOfEverySet 
+    EqualSets; StrategyForEqualSets
+    Union; Intersection; Complement; Inclusion-ExclusionPrinciple; DeMorganLaws
+    DisjointSets; Examples:
+        - (A Inter B) and (A Inter complB) are disjoint with ((A inter B) U (A inter compl(B))) = A 
+        - (A inter B = A) iff (A subset B) 
+        - (A subset B) iff (complB subset complA) 
+        - cardinality(A U B) = cardinality(A) + cardinality(B) - cardinality(A inter B) if A and B are finite sets 
+
+

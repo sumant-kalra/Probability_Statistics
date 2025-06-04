@@ -14,7 +14,7 @@
 - PartialDerivatives; Jacobian of a function that maps (x1, x2, ..., xn) to (y1, y2, ..., yn)
 - MultipleIntegrals; ChangeOfOrderOfIntegration; ChangeOfVariables;
     GammaFunction G(a) = Integrate 0->Inf (x^a . e^(-x) dx/x); Used to calculate volume of a ball of unit radius in n dimensions
-- Sums: GeometricSeries; TaylorSeries-e^x; HarmonicSeries; BinomialTheorem /// Write in compact form
+- Sums: GeometricSeries; TaylorSeries:e^x; HarmonicSeries; BinomialTheorem /// Write in compact form
 - Useful Limit
 - Patterns
 - CommonSense&CheckingAnswers

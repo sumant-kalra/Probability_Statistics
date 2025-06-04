@@ -17,6 +17,30 @@ CLEARING THE LONG STANDING DOUBTS
 6. Note that selection of n items from m makes sense when n<m, because when n=m, nSelections = 1.
    For n=m, there can be only arrangements, nArrangements = n!
 7. Problem of arrangements = [Selection + PermutationsOfTheSelectedItems]
+8. Confusion about the repetition: Divide by the factorial of nDuplicates in the Same Set
+9. Selection problems - solved not in a positional way as in permutations; Solve them in generic path forming way: A->B->C
+    Definition of nCr is independent of nPr 
+10. Sampling: 4x4: Order(Y/N) x Repetition(Y/N)
+
+================================================================================================================================
+Examples:
+- Probability of full house in poker, 5 card hand? Full house: 3 cards of same rank + 2 cards of different same rank
+- Problems from https://stat110.hsites.harvard.edu/sites/g/files/omnuum10111/files/stat110/files/strategic_practice_and_homework_1.pdf 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 TABLE OF CONTENTS

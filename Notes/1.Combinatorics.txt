@@ -24,7 +24,9 @@ CLEARING THE LONG STANDING DOUBTS
 
 ================================================================================================================================
 Examples:
-- Probability of full house in poker, 5 card hand? Full house: 3 cards of same rank + 2 cards of different same rank
+- Probability: (a) full house (b) two pairs, in poker 5 card hand?  #Tip: follow from the basics how order arises
+    Full house: 3 cards of same rank + 2 cards of different same rank; example 77733 
+    Two pairs: 2 pairs of cards different ranks + 1 card of totally different rank; example 7733A  
 - Problems from https://stat110.hsites.harvard.edu/sites/g/files/omnuum10111/files/stat110/files/strategic_practice_and_homework_1.pdf 
 
 

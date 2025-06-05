@@ -1,0 +1,17 @@
+================================================================================================================================
+Statistics 110: https://stat110.hsites.harvard.edu/
+================================================================================================================================
+Problem Solving:
+    - Be brave and believe in yourself! If it is possible for anyone then it is possible for me also.
+    - Think of concrete examples
+    - Use the definitions to solve problems (Probability, Permutation, Combinations)
+    - Counting problems: Map to the known problems!
+
+================================================================================================================================
+1. Experiment; Sample space; Event; Naive definition of Probability (2); Counting; Sampling; 
+    Distribution; CountingMultiplicationRule-Set&Tree; nCr - BinomialCoefficient - PascalTriangle; nPr; Derive nPr, nCr; SamplingTable-2x2(ReplacementxOrder)
+
+
+
+
+

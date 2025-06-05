@@ -37,6 +37,7 @@ Examples:
     but “statistics” is not. Order matters, e.g., “course” is not the same as “source”.
     A norepeatword is chosen randomly, with all norepeatwords equally likely. 
     Show that the probability that it uses all 26 letters is very close to 1/e.
+- nWays(select 5 persons from 10); nWays(form 2 teams of 4 and 6 from 10); nWays(form 2 teams of 5 each from 10); nWays(select 4 persons from 10)
 
 * Problems Link: https://stat110.hsites.harvard.edu/sites/g/files/omnuum10111/files/stat110/files/strategic_practice_and_homework_1.pdf 
 

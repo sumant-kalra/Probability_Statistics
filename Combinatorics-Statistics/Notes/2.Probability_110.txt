@@ -1,17 +1,31 @@
 ================================================================================================================================
 Statistics 110: https://stat110.hsites.harvard.edu/
 ================================================================================================================================
-Problem Solving:
-    - Be brave and believe in yourself! If it is possible for anyone then it is possible for me also.
-    - Think of concrete examples
+Problem Solving: Key skill: Identify pattens when two problems are equivalent.
+    - BE BRAVE & BELIEVE IN YOURSELF! If it is possible for anyone then it is possible for me also.
+    - Think of concrete examples & draw diagrams
     - Use the definitions to solve problems (Probability, Permutation, Combinations)
-    - Counting problems: Map to the known problems!
+    - Counting problems: Map to the known problems! Draw the equivalence
+    - Always check the answers with different cases: simpler, extremes & nominal; 2 is the simplest non-trivial example
 
 ================================================================================================================================
 1. Experiment; Sample space; Event; Naive definition of Probability (2); Counting; Sampling; 
     Distribution; CountingMultiplicationRule-Set&Tree; nCr - BinomialCoefficient - PascalTriangle; nPr; Derive nPr, nCr; SamplingTable-2x2(ReplacementxOrder)
 
-
+2. Bose-Einstein; Story Proofs; Valdermonde identity; Axioms of probability
+    3 advices: (a)Common sense (b)Check answers (c)Label
+    nWays(5 persons from 10) != nWays(form 2 teams each of 5 from 10)
+    Select k from n objects with repetition & order does not matter 
+    Distinguishable vs Indistinguishable [Physics example]
+    Proof by interpretation: 
+        - nCk = nC(n-k);    Interpetation: Select k objects from n  ~   Select (n-k) from n 
+        - n * (n-1)C(k-1) = nCk * k;       Interpetation: Select k persons from n with 1 of k as their leader; Count in 2 ways 
+        - Valdermonde identity  
+            (m+n)Ck = [Sum j=0Tok] mCj * nC(k-j) Interpetation: Select k people from a group of m+n; Count in 2 ways 
+    Non-naive definition of probability: i.e. the Sample space can be of infinite size & All outcomes are not equally likely.
+        A probability space P is a function that takes an event A subset S as input, return P(A) is in [0,1], such that 
+            Axiom1: P(EmptySet) = 0, P(S) = 1
+            Axiom2: P(UAn) = Sum P(An) for n=1toInf if A1,A2,A3..,An are disjoint
 
 
 

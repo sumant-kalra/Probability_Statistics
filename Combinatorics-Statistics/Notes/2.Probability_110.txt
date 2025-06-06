@@ -15,9 +15,9 @@ Problem Solving: Key skill: Identify pattens when two problems are equivalent.
 2. Bose-Einstein; Story Proofs; Valdermonde identity; Axioms of probability
     3 advices: (a)Common sense (b)Check answers (c)Label
     nWays(5 persons from 10) != nWays(form 2 teams each of 5 from 10)
-    Select k from n objects with repetition & order does not matter 
+    Select k from n objects with repetition & order does not matter: (n+k-1)Ck; 2 ways of thinking of the final answer 
     Distinguishable vs Indistinguishable [Physics example]
-    Proof by interpretation: 
+    Proof by interpretation: Story proofs: 
         - nCk = nC(n-k);    Interpetation: Select k objects from n  ~   Select (n-k) from n 
         - n * (n-1)C(k-1) = nCk * k;       Interpetation: Select k persons from n with 1 of k as their leader; Count in 2 ways 
         - Valdermonde identity  

@@ -24,6 +24,7 @@ CLEARING THE LONG STANDING DOUBTS
 
 ================================================================================================================================
 Examples:
+- Derive the formula of nCr from the fundamentals
 - nWays to obtain 2H in a 10 coin toss?
 - P(sum of 21 in 4 fair dice throw); P(sum of 22 in 4 fair dice throw); Compare? Why?
 - Probability: (a) full house (b) two pairs, in poker 5 card hand? (c) Flush (ignore royal flush)  #Tip: follow from the basics how order arises

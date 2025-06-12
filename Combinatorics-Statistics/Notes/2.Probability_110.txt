@@ -7,6 +7,11 @@ Problem Solving: Key skill: Identify pattens when two problems are equivalent.
     - Use the definitions to solve problems (Probability, Permutation, Combinations)
     - Counting problems: Map to the known problems! Draw the equivalence
     - Always check the answers with different cases: simpler, extremes & nominal; 2 is the simplest non-trivial example
+Probability tips:
+    - Define event 
+    - (a)Other approaches (b)Inclusion-Exclusion principle 
+    - Use symmetry 
+
 
 ================================================================================================================================
 1. Experiment; Sample space; Event; Naive definition of Probability (2); Counting; Sampling; 
@@ -30,5 +35,10 @@ Problem Solving: Key skill: Identify pattens when two problems are equivalent.
             Axiom1: P(EmptySet) = 0, P(S) = 1
             Axiom2: If A1,A2,A3..,An are disjoint, then for n=1toInf, P(UAn) = Sum P(An) 
 
-
+3. Birthday problem; Properties of probability; Inclusion-Exclusion; Matching problem 
+    BirthdayProblem-Assumptions(3)-Solution+Intuition; Collisions when selecting random numbers from [1,365], k times; nPairs grow quadratically.
+    Non-Naive definition of probability: Defines probability completely; Powerful Axioms: Every P theorem can be derived;
+    nPropertiesProbability(3)+Proofs: Complement;Subset;Inclusion-Exclusion_2Sets; Inclusion-Exclusion_GeneralFormula_CompactForm
+    MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)?; 
+          
 

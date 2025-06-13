@@ -39,6 +39,6 @@ Probability tips:
     BirthdayProblem-Assumptions(3)-Solution+Intuition; Collisions when selecting random numbers from [1,365], k times; nPairs grow quadratically.
     Non-Naive definition of probability: Defines probability completely; Powerful Axioms: Every P theorem can be derived;
     nPropertiesProbability(3)+Proofs: Complement;Subset;Inclusion-Exclusion_2Sets; Inclusion-Exclusion_GeneralFormula_CompactForm
-    MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)?; 
+    MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)? 
           
 

@@ -7,9 +7,10 @@ Problem Solving: Key skill: Identify pattens when two problems are equivalent.
     - Use the definitions to solve problems (Probability, Permutation, Combinations)
     - Counting problems: Map to the known problems! Draw the equivalence
     - Always check the answers with different cases: simpler, extremes & nominal; 2 is the simplest non-trivial example
+
 Probability tips:
-    - Define event 
-    - (a)Other approaches (b)Inclusion-Exclusion principle 
+    - Think definition; define events  
+    - Solution: (a)Other approaches ... (z)Inclusion-Exclusion principle + 'Symmetry' as last resort, otherwise its tedious
     - Use symmetry 
 
 

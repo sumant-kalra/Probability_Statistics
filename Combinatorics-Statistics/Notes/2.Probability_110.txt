@@ -39,7 +39,13 @@ Probability tips:
 3. Birthday problem; Properties of probability; Inclusion-Exclusion; Matching problem 
     BirthdayProblem-Assumptions(3)-Solution+Intuition; Collisions when selecting random numbers from [1,365], k times; nPairs grow quadratically.
     Non-Naive definition of probability: Defines probability completely; Powerful Axioms: Every P theorem can be derived;
-    nPropertiesProbability(3)+Proofs: Complement;Subset;Inclusion-Exclusion_2Sets; Inclusion-Exclusion_GeneralFormula_CompactForm
-    MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)? 
-          
+    nPropertiesProbability(3)+Proofs: Complement;Subset;Inclusion-Exclusion_2Sets; Inclusion-Exclusion_GeneralFormula_CompactForm_Symmetry
+    MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)? P(noMatch)? FinalAnswerInsights_n->Inf? 
+
+4. Independence; Newton-Pepys; Conditional probability; Bayes’ rule 
+    IndependentEventsSlogan2Way; DisjointVsIndependence; Disjoint-MutuallyExclusive; Independent-NoInfomationOfOther
+    Newton-Pepys: Define; SolveHighestProbability? BinomialProbability
+    Conditional probability: "Conditioning is the soul of statistics"; Definition; Intuition(2); Theorems(3) 
+
+
 

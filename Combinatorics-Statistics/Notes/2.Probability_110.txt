@@ -43,7 +43,7 @@ Probability tips:
     MatchingProblem/deMontmort'sProblem: Define; P(Atleast1Match)? P(noMatch)? FinalAnswerInsights_n->Inf? 
 
 4. Independence; Newton-Pepys; Conditional probability; Bayes’ rule 
-    IndependentEventsSlogan2Way; DisjointVsIndependence; Disjoint-MutuallyExclusive; Independent-NoInfomationOfOther
+    IndependentEventsSlogan2Way; DisjointVsIndependence; Disjoint-MExcl; Independent-NoInfo; Independence-3Events-Generalize; ThinkExamples
     Newton-Pepys: Define; SolveHighestProbability? BinomialProbability
     Conditional probability: "Conditioning is the soul of statistics"; Definition; Intuition(2); Theorems(3) 
 

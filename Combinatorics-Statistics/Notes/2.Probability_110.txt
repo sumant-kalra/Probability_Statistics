@@ -45,7 +45,7 @@ Probability tips:
 4. Independence; Newton-Pepys; Conditional probability; Bayes’ rule 
     IndependentEventsSlogan2Way; DisjointVsIndependence; Disjoint-MExcl; Independent-NoInfo; Independence-3Events-Generalize; ThinkExamples
     Newton-Pepys: Define; SolveHighestProbability? BinomialProbability
-    Conditional probability: "Conditioning is the soul of statistics"; Definition; Intuition(2); Theorems(3) 
+    Conditional probability: Definition(3); Intuition(2); Theorems(3)-P(A,B), P(A1,A2,..,An)?(n!), Baye'sTheorem 
 
 
 

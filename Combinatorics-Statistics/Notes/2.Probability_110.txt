@@ -9,7 +9,6 @@ Problem Solving:
 
 Probability tips:
 - Think definitions(Probability, Permutation, Combinations, ...); define events.
-
 - Solution: (a)Other approaches ... (z)Inclusion-Exclusion principle + 'Symmetry' as last resort, otherwise its tedious.
 - Counting problems: Map to the known problems! Draw the equivalence.
 - Always check the answers with different cases: simpler, extremes & nominal; 2 is the simplest non-trivial example.

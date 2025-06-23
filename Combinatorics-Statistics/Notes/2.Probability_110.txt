@@ -26,7 +26,7 @@ Problems from the lectures:
 
 2. Bose-Einstein; Story Proofs; Valdermonde identity; Axioms of probability
     3 advices: (a)Common sense (b)Check answers (c)Label
-    nWays(5 persons from 10) != nWays(form 2 teams each of 5 from 10)
+    nWays(5 persons from 10) != nWays(form 2 teams each of 5 from 10); General problem: Grouping
     Select k from n objects with repetition & order does not matter: (n+k-1)Ck; 2 ways of thinking of the final answer
     Distinguishable vs Indistinguishable [Physics example]; related to labelling
     Proof by interpretation: Story proofs:

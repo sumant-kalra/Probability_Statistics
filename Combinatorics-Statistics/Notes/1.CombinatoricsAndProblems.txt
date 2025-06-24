@@ -44,6 +44,23 @@ Examples:
 - nPossibleUniqueHandshakes in a group of n people 
 - nWays(Partition 2n people into n groups with 2 persons each); nWays(Partition 3n people into n groups with 3 persons each); Solve in 3 different ways. [Grouping problem]
 
+- A certain family has 6 children, consisting of 3 boys and 3 girls. 
+  Assuming that all birth orders are equally likely, what is the probability that the 3 eldest children are the 3 girls? (2 methods)
+- Grouping problems: (3 methods where ever possible) 
+  (a) How many ways are there to split a dozen people into 3 teams, where one team has 2 people, and the other two teams have 5 people each?
+  (b) How many ways are there to split a dozen people into 3 teams, where each team has 4 people?
+- A college has 10 (non-overlapping) time slots for its courses, and blithely assigns courses to time slots randomly and independently. A student randomly chooses 3 of the courses to enroll in (for the PTP, to avoid getting fined). 
+  What is the probability that there is a conflict in the student’s schedule? [Birthday problem]
+- A city with 6 districts has 6 robberies in a particular week. Assume the robberies are located randomly, with all possibilities for which robbery occurred where equally likely. 
+  What is the probability that some district had more than 1 robbery? [Birthday problem]
+- A fair die is rolled 6 times, P(some value is repeated)? [Birthday problem]
+- Elk dwell in a certain forest. There are N elk, of which a simple random sample of size n are captured and tagged (“simple random sample” means that all NCn sets of n elk are equally likely). 
+  The captured elk are returned to the population, and then a new sample is drawn, this time with size m. 
+  This is an important method that is widely-used in ecology, known as capture-recapture.
+  What is the probability that exactly k of the m elk in the new sample were previously tagged? 
+  (Assume that an elk that was captured before doesn’t become more or less likely to be captured again.)
+
+
 * Problems Link: https://stat110.hsites.harvard.edu/sites/g/files/omnuum10111/files/stat110/files/strategic_practice_and_homework_1.pdf 
 
 

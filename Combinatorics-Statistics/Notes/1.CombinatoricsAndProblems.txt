@@ -21,6 +21,7 @@ CLEARING THE LONG STANDING DOUBTS
 9. Selection problems - solved not in a positional way as in permutations; Solve them in generic path forming way: A->B->C
     Definition of nCr is independent of nPr 
 10. Sampling: 4x4: Order(Y/N) x Repetition(Y/N)
+11. Double factorial; Interesting result: 2^n.n! = 2n!!
 
 ================================================================================================================================
 Examples:

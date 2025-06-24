@@ -70,9 +70,9 @@ Examples:
       kCk + (k+1)Ck + (k+2)Ck + (k+3)Ck + ... + nCk = (n+1)C(k+1), where n and k are positive integers with n >= k.
       Hint: imagine arranging a group of people by age, and then think about the oldest person in a chosen subgroup.
   (b) Suppose that a large pack of Haribo gummi bears can have anywhere between 30 and 50 gummi bears. 
-  There are 5 delicious flavors: pineapple (clear), raspberry (red), orange (orange), strawberry (green, mysteriously), and lemon (yellow). 
-  There are 0 non-delicious flavors. How many possibilities are there for the composition of such a pack of gummi bears? 
-  You can leave your answer in terms of a couple binomial coefficients, but not a sum of lots of binomial coefficients.
+      There are 5 delicious flavors: pineapple (clear), raspberry (red), orange (orange), strawberry (green, mysteriously), and lemon (yellow). 
+      There are 0 non-delicious flavors. How many possibilities are there for the composition of such a pack of gummi bears? 
+      You can leave your answer in terms of a couple binomial coefficients, but not a sum of lots of binomial coefficients.
 
 * Problems Link: https://stat110.hsites.harvard.edu/sites/g/files/omnuum10111/files/stat110/files/strategic_practice_and_homework_1.pdf 
 

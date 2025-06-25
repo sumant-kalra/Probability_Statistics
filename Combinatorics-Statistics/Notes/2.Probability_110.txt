@@ -37,7 +37,7 @@ Problems from the lectures:
         - 2^n = Sum k=0ton mCk
         - (n+1)Ck = nCk + nC(k-1) for n>=k; Use Pascal's Triangle
         - (2n)!/(2^n*n!) = (2n-1)(2n-3)(2n-5)...3.1
-        - Hockey stick identity; What? How? kCk + (k+1)Ck + (k+2)Ck + ... + nCk = (n+1)C(k+1; Use Pascal's Triangle
+        - Hockey stick identity; What? How? kCk + (k+1)Ck + (k+2)Ck + ... + nCk = (n+1)C(k+1); Use Pascal's Triangle
     Non-naive definition of probability: i.e. the Sample space can be of infinite size & All outcomes are not equally likely.
         A probability space P is a function that takes an event A subset S as input, return P(A) is in [0,1], such that
             Axiom1: P(EmptySet) = 0, P(S) = 1

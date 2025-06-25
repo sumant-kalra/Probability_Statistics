@@ -63,7 +63,7 @@ Examples:
 - A jar contains r red balls and g green balls, where r and g are fixed positive integers. 
   A ball is drawn from the jar randomly (with all possibilities equally likely), and then a second ball is drawn randomly.
   (a) Explain intuitively why the probability of the second ball being green is the same as the probability of the first ball being green.
-  (b) Define notation for the sample space of the problem, and use this to compute the probabilities from (a) and show that they are the same.
+  (b) Define notation for the sample space of the problem, and use this to compute the probabilities from (a) and show that they are the same. [2 methods - counting first, probability first]
   (c) Suppose that there are 16 balls in total, and that the probability that the two balls are the same color is the same as the probability that they are different colors.
       What are r and g (list all possibilities)?
 - (a) Show using a story proof that 
